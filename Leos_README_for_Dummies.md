@@ -1,0 +1,1 @@
+ - if notebook Kernel has been connected once to for example the IDS camera it needs to be restarted otherwise can't capture again with the same camera
